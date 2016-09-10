@@ -1,0 +1,19 @@
+{
+  "name": "boparaiamrit/fullcontact",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Amritpal Singh",
+      "email": "boparaiamrit@gmail.com"
+    }
+  ],
+  "require": {
+    "fullcontact/sdk": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Boparaiamrit\\FullContact\\": "src"
+    }
+  },
+  "minimum-stability": "stable"
+}
